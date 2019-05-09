@@ -19,6 +19,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.ConcurrencyManagement", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcurrencyManagementDemo", "ConcurrencyManagementDemo\ConcurrencyManagementDemo.csproj", "{E59AACCE-B05D-4AB9-9D8F-E4F0AE64BF16}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.CustomObserver", "5.CustomObserver", "{D1D50BFF-1DA3-41F2-BE17-B5D73A9E2ED9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomObserver", "CustomObserver\CustomObserver.csproj", "{0842B26A-1612-4F30-8FC9-521DF00D19EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +45,10 @@ Global
 		{E59AACCE-B05D-4AB9-9D8F-E4F0AE64BF16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E59AACCE-B05D-4AB9-9D8F-E4F0AE64BF16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E59AACCE-B05D-4AB9-9D8F-E4F0AE64BF16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0842B26A-1612-4F30-8FC9-521DF00D19EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0842B26A-1612-4F30-8FC9-521DF00D19EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0842B26A-1612-4F30-8FC9-521DF00D19EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0842B26A-1612-4F30-8FC9-521DF00D19EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,6 +58,7 @@ Global
 		{6A2B0CA5-07C0-4C3A-B91B-6AC9635C6BE8} = {CA8D2722-7D06-4BDD-A437-0E9C313B1D8E}
 		{0A3EDD14-8896-47A8-9F1B-05481DEBCB22} = {792050A8-23FE-4BE4-8CD2-97257484B3B1}
 		{E59AACCE-B05D-4AB9-9D8F-E4F0AE64BF16} = {9B489C86-6669-432D-9093-C95C4C02E4E1}
+		{0842B26A-1612-4F30-8FC9-521DF00D19EB} = {D1D50BFF-1DA3-41F2-BE17-B5D73A9E2ED9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {980CEA2A-8670-40C5-88A9-A5A8263A6991}
