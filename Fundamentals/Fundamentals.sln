@@ -27,6 +27,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SchedulerDemo", "SchedulerD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchedulerUsageDemo", "SchedulerUsageDemo\SchedulerUsageDemo.csproj", "{9E9A8D79-7740-47FE-8309-C7E7539EB231}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6.RepeatAndTake", "6.RepeatAndTake", "{479664DB-9339-4460-9502-7C9E2D38F2C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatAndTakeDemo", "RepeatAndTakeDemo\RepeatAndTakeDemo.csproj", "{5DB20E80-12CF-48C4-80FE-9616247BFDDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,10 @@ Global
 		{9E9A8D79-7740-47FE-8309-C7E7539EB231}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E9A8D79-7740-47FE-8309-C7E7539EB231}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E9A8D79-7740-47FE-8309-C7E7539EB231}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DB20E80-12CF-48C4-80FE-9616247BFDDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB20E80-12CF-48C4-80FE-9616247BFDDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB20E80-12CF-48C4-80FE-9616247BFDDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB20E80-12CF-48C4-80FE-9616247BFDDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -68,6 +76,7 @@ Global
 		{E59AACCE-B05D-4AB9-9D8F-E4F0AE64BF16} = {9B489C86-6669-432D-9093-C95C4C02E4E1}
 		{0842B26A-1612-4F30-8FC9-521DF00D19EB} = {D1D50BFF-1DA3-41F2-BE17-B5D73A9E2ED9}
 		{9E9A8D79-7740-47FE-8309-C7E7539EB231} = {86963005-C308-415F-99B8-EC6A356372F8}
+		{5DB20E80-12CF-48C4-80FE-9616247BFDDC} = {479664DB-9339-4460-9502-7C9E2D38F2C7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {980CEA2A-8670-40C5-88A9-A5A8263A6991}
