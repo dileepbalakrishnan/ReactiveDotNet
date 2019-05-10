@@ -31,6 +31,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6.RepeatAndTake", "6.Repeat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatAndTakeDemo", "RepeatAndTakeDemo\RepeatAndTakeDemo.csproj", "{5DB20E80-12CF-48C4-80FE-9616247BFDDC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7.ScanDemo", "7.ScanDemo", "{993E8EEF-FCDD-4430-B11B-E71515D9BB64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScanUsage", "ScanUsage\ScanUsage.csproj", "{D8CD6DA1-2138-45ED-A6E6-C123022DACC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,6 +69,10 @@ Global
 		{5DB20E80-12CF-48C4-80FE-9616247BFDDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DB20E80-12CF-48C4-80FE-9616247BFDDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DB20E80-12CF-48C4-80FE-9616247BFDDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8CD6DA1-2138-45ED-A6E6-C123022DACC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8CD6DA1-2138-45ED-A6E6-C123022DACC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8CD6DA1-2138-45ED-A6E6-C123022DACC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8CD6DA1-2138-45ED-A6E6-C123022DACC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -77,6 +85,7 @@ Global
 		{0842B26A-1612-4F30-8FC9-521DF00D19EB} = {D1D50BFF-1DA3-41F2-BE17-B5D73A9E2ED9}
 		{9E9A8D79-7740-47FE-8309-C7E7539EB231} = {86963005-C308-415F-99B8-EC6A356372F8}
 		{5DB20E80-12CF-48C4-80FE-9616247BFDDC} = {479664DB-9339-4460-9502-7C9E2D38F2C7}
+		{D8CD6DA1-2138-45ED-A6E6-C123022DACC2} = {993E8EEF-FCDD-4430-B11B-E71515D9BB64}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {980CEA2A-8670-40C5-88A9-A5A8263A6991}
